@@ -1,4 +1,4 @@
-# Aidan_AI_chatbot
+# Character_AI_chatbot
 Implementing an interactive AI avatar using Python, Blender and GPT
 
 This is a coding and artistic challenge to demonstrate and expand my skills.
